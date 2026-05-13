@@ -1,0 +1,89 @@
+2026-05-13 00:32:37,800 - ERROR - Correo inv�lido.
+2026-05-13 00:53:48,497 - ERROR - Correo inv�lido.
+2026-05-13 00:54:22,634 - INFO - Cliente registrado: Cliente 1: sajja (ajsaja@gamil.ds)
+2026-05-13 00:54:51,173 - INFO - Servicio seleccionado: Reserva de Salas: Reserva de Sala A, Precio: 1000, Capacidad: 10
+2026-05-13 00:57:05,595 - INFO - Cliente registrado: Cliente 1: ass (sas@ds.)
+2026-05-13 00:57:09,831 - INFO - Servicio seleccionado: Reserva de Salas: Reserva de Sala A, Precio: 1000, Capacidad: 10
+2026-05-13 00:58:46,541 - INFO - Cliente registrado: Cliente 1: ddas (aaas@.d)
+2026-05-13 00:58:53,382 - INFO - Servicio seleccionado: Reserva de Salas: Reserva de Sala A, Precio: 1000, Capacidad: 10
+2026-05-13 01:03:42,193 - ERROR - invalid literal for int() with base 10: '& C:/Users/manul/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/manul/OneDrive - Universidad Nacional Abierta y a Distancia/GitHub/Ejercicio Colab/main.py"'
+2026-05-13 01:03:52,493 - INFO - Cliente registrado: Cliente 1: ccyg (h@hh.)
+2026-05-13 01:04:01,899 - INFO - Servicio seleccionado: Reserva de Salas: Reserva de Sala A, Precio: 1000, Capacidad: 10
+2026-05-13 01:08:47,458 - INFO - Cliente registrado: Cliente 1: acdd (asas@dsd.)
+2026-05-13 01:08:50,653 - INFO - Servicio seleccionado: Reserva de Salas: Reserva de Sala A, Precio: 10, Capacidad: 1000
+2026-05-13 01:13:30,320 - INFO - servicio reservado: Reserva de Sala A
+2026-05-13 01:13:30,320 - INFO - Total a pagar por la reserva: 20
+2026-05-13 01:13:58,037 - INFO - Cliente registrado: Cliente 1: sas (as@jsd.cs)
+2026-05-13 01:14:13,963 - INFO - Servicio seleccionado: (Reserva de Sala): Sala A, Precio: 10, Capacidad: 1000
+2026-05-13 01:16:27,166 - ERROR - Correo inv�lido.
+2026-05-13 01:16:54,347 - INFO - Cliente registrado: Cliente 1: asas (ss@dd.)
+2026-05-13 01:17:09,380 - INFO - Servicio seleccionado: (Reserva de Sala): Sala A, Capacidad: 10, Precio: 1000
+2026-05-13 01:17:33,139 - INFO - servicio reservado: Sala A
+2026-05-13 01:17:33,139 - INFO - Total a pagar por la reserva: 2000
+2026-05-13 01:17:51,979 - INFO - Cliente registrado: Cliente 1: sds (sd@sdd.)
+2026-05-13 01:18:08,839 - INFO - Servicio seleccionado: (Reserva de Sala): Sala B, Capacidad: 20, Precio: 2000
+2026-05-13 01:26:51,564 - INFO - Cliente registrado: Cliente 1: sds (s@dd.)
+2026-05-13 01:27:00,135 - ERROR - AlquilerEquipos.__init__() missing 1 required positional argument: 'tipo_equipo'
+2026-05-13 01:30:59,808 - INFO - Cliente registrado: Cliente 1: ass (assa@.)
+2026-05-13 01:31:16,138 - INFO - Servicio seleccionado: (Alquiler de Equipos): Alquiler de Proyector, Precio: 500
+2026-05-13 01:34:13,495 - INFO - Cliente registrado: Cliente 1: sd (@.)
+2026-05-13 01:38:30,937 - ERROR - Opci�n no v�lida.
+2026-05-13 01:38:42,452 - INFO - Cliente registrado: Cliente 1: jdjj (@sh.s)
+2026-05-13 01:39:36,084 - INFO - Servicio seleccionado: (Reserva de Sala): Sala A, Capacidad: 10, Precio: 1000
+2026-05-13 01:40:22,258 - INFO - servicio reservado: Sala A
+2026-05-13 01:40:22,258 - INFO - Total a pagar por la reserva: 2000
+2026-05-13 01:40:45,654 - ERROR - Correo inv�lido.
+2026-05-13 01:41:01,214 - INFO - Cliente registrado: Cliente 1: sdsds (aas@.)
+2026-05-13 01:42:23,178 - INFO - Servicio seleccionado: (Alquiler de Equipos): Alquiler de Proyector, Precio: 500
+2026-05-13 02:06:34,884 - ERROR - El nombre solo puede contener letras y espacios.
+2026-05-13 02:07:29,916 - ERROR - El nombre no puede estar vac�o.
+2026-05-13 02:09:35,933 - ERROR - Aseguere de que el nombre no contenga numeros.
+2026-05-13 02:09:52,888 - ERROR - Correo inv�lido.
+2026-05-13 02:14:49,333 - ERROR - Aseguere de que el nombre no contenga numeros.
+2026-05-13 02:15:21,368 - ERROR - Correo incorrecto. Debe contener '@' y '.' ejemplo: usuario@dominio.com
+2026-05-13 02:16:23,021 - INFO - Cliente registrado: Cliente id:1: manu (manul@g.com)
+2026-05-13 02:22:28,711 - ERROR - Correo incorrecto. Debe contener '@' y '.' ejemplo: usuario@dominio.com
+2026-05-13 02:22:51,087 - INFO - Cliente registrado: Cliente id:1: manu (manul@ds.)
+2026-05-13 02:25:24,222 - INFO - Cliente registrado: Cliente id:1: sss (ss@s.)
+2026-05-13 02:27:33,492 - INFO - Cliente registrado: id:1 ssss (dsd@.s)
+2026-05-13 03:07:36,305 - ERROR - Opci�n no v�lida.
+2026-05-13 03:08:09,919 - INFO - Cliente registrado: id:1 ssss (sss.@d.s)
+2026-05-13 03:08:20,321 - ERROR - AlquilerEquipos.__init__() takes 3 positional arguments but 4 were given
+2026-05-13 03:10:07,329 - INFO - Cliente registrado: id:1 sks (saq@s.)
+2026-05-13 03:10:12,430 - INFO - Servicio seleccionado: (Alquiler de Equipos): Proyector, Precio: 500
+2026-05-13 03:11:07,422 - INFO - servicio reservado: Proyector
+2026-05-13 03:11:07,422 - INFO - Total a pagar por el alquiler: 1500
+2026-05-13 03:15:01,898 - INFO - Cliente registrado: id:1 ss (s@.)
+2026-05-13 03:15:10,222 - INFO - Servicio seleccionado: (Asesor�a Especializada): Soporte t�cnico, Precio: 1500
+2026-05-13 03:18:39,127 - INFO - Cliente registrado: id:1 GG (hh@.)
+2026-05-13 03:18:58,734 - INFO - Servicio seleccionado: (Asesor�a Especializada): SoportDDe t�cnico, Precio: 1500
+2026-05-13 03:21:21,214 - INFO - Cliente registrado: id:1 hh (s@.)
+2026-05-13 03:21:27,599 - INFO -  (Asesor�a Especializada): Soporte t�cnico, Precio: 1500
+2026-05-13 03:23:05,184 - INFO - Cliente registrado: id:1 ws (ss@.)
+2026-05-13 03:23:10,288 - INFO - Servicio seleccionado: (Asesor�a Especializada): Soporte t�cnico, Precio: 1500
+2026-05-13 03:25:25,881 - INFO - Cliente registrado: id:1 ss (aa@.)
+2026-05-13 03:25:29,865 - INFO - Servicio seleccionado: (Asesor�a Especializada): Soporte t�cnico tiene un Precio de: 1500
+2026-05-13 03:28:34,995 - INFO - Cliente registrado: id:1 ss (ss@.)
+2026-05-13 03:28:50,341 - INFO - Servicio seleccionado: (Asesor�a Especializada): Soporte t�cnico tiene un Precio de: 1500
+2026-05-13 03:38:23,444 - INFO - Cliente registrado: id:1 ww (eje@ga.)
+2026-05-13 03:56:38,391 - ERROR - Correo incorrecto. Debe contener '@' y '.' ejemplo: usuario@dominio.com
+2026-05-13 03:57:14,664 - INFO - Cliente registrado: id:1 dd (s@)
+2026-05-13 03:57:37,734 - INFO - Servicio seleccionado: La reserva de Sala audiovisual con capacidad de 20 personas tiene un costo de 2000
+2026-05-13 03:57:52,211 - INFO - servicio reservado: Sala audiovisual
+2026-05-13 03:57:52,211 - INFO - Total a pagar por la reserva: $6000
+2026-05-13 03:57:52,211 - INFO - Reserva completada: Reserva para dd:
+La reserva de Sala audiovisual con capacidad de 20 personas tiene un costo de 2000
+2026-05-13 04:07:43,096 - INFO - Cliente registrado: id:1 sjs (sj@)
+2026-05-13 04:07:51,662 - INFO - Servicio seleccionado: La reserva de Sala de reuniones con capacidad de 10 personas tiene un costo de 1000
+2026-05-13 04:08:13,786 - INFO - servicio reservado: Sala de reuniones
+2026-05-13 04:08:13,787 - INFO - Total a pagar por la reserva: $2000
+2026-05-13 04:08:13,787 - ERROR - 'Reserva' object has no attribute 'set_cliente'
+2026-05-13 04:09:41,834 - INFO - Cliente registrado: id:1 shs (s@)
+2026-05-13 04:09:52,425 - INFO - Servicio seleccionado: La reserva de Sala privada con capacidad de 30 personas tiene un costo de 3000
+2026-05-13 04:09:54,867 - INFO - servicio reservado: Sala privada
+2026-05-13 04:09:54,867 - INFO - Total a pagar por la reserva: $3000
+2026-05-13 04:09:54,867 - ERROR - El servicio debe ser una instancia de Servicio.
+2026-05-13 04:42:46,618 - INFO - Cliente registrado: id:1 ss (s@)
+2026-05-13 04:42:52,188 - INFO - Servicio seleccionado: La reserva de Sala de reuniones con capacidad de 10 personas tiene un costo de 1000
+2026-05-13 04:42:55,763 - INFO - servicio reservado: Sala de reuniones
+2026-05-13 04:42:55,763 - INFO - Total a pagar por la reserva: $2000
