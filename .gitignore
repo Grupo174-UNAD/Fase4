@@ -1,2 +1,4 @@
+#Funciona para ignorar los archivos cache y que no se suban al repositorio
 __pycache__/
 *.pyc
+logs.text
